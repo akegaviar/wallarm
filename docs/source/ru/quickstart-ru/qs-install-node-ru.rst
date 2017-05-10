@@ -19,7 +19,7 @@
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: ../../add-repo-ru.rst
+.. include:: /docs/source/ru/include-ru/add-repo-ru.rst
 
 .. include:: ../../access-repo-ru.rst
 
