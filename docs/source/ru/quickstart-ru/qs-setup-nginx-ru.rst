@@ -25,9 +25,9 @@
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: docs/source/ru/include-ru/add-repo-ru.rst
+.. include:: /ru/include-ru/add-repo-ru.rst
 
-.. include:: docs/source/ru/include-ru/access-repo-ru.rst
+.. include:: /ru/include-ru/access-repo-ru.rst
 
 Установите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,21 +41,21 @@
 Чтобы установить модуль NGINX и модуль постаналитики на один сервер, выполните
 команду:
 
-.. include:: docs/source/ru/include-ru/install-nginx-postanalytics-ru.rst
+.. include:: /ru/include-ru/install-nginx-postanalytics-ru.rst
 
 Чтобы установить только модуль NGINX, выполните команду:
 
-.. include:: docs/source/ru/include-ru/install-nginx-ru.rst
+.. include:: /ru/include-ru/install-nginx-ru.rst
 
 Установите лицензионный ключ
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: docs/source/ru/include-ru/install-license-ru.rst
+.. include:: /ru/include-ru/install-license-ru.rst
 
 Настройте модуль постаналитики
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: docs/source/ru/include-ru/configure-postanalytics-ru.rst
+.. include:: /ru/include-ru/configure-postanalytics-ru.rst
 
 Подключите модуль NGINX-Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@
 Подключите фильтрующий узел к облаку Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: docs/source/ru/include-ru/connect-cloud-ru.rst
+.. include:: /ru/include-ru/connect-cloud-ru.rst
 
 На этом установка завершена. Далее необходимо настроить узел для фильтрации
 трафика ТТК.

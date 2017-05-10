@@ -21,24 +21,24 @@
 
 .. include:: /ru/include-ru/add-repo-ru.rst
 
-.. include:: access-repo-ru.rst
+.. include:: /ru/include-ru/access-repo-ru.rst
 
 Установите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: install-package-ru.rst
+.. include:: /ru/include-ru/install-package-ru.rst
 
 Установите лицензионный ключ
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: install-license-ru.rst
+.. include:: /ru/include-ru/install-license-ru.rst
 
 Настройте модуль постаналитики
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: configure-postanalytics-ru.rst
+.. include:: /ru/include-ru/configure-postanalytics-ru.rst
 
 Подключите фильтрующий узел к облаку Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
