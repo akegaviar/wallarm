@@ -7,9 +7,18 @@
    * - Операционная система
      - Команда
    * - Debian 7.x (wheezy)
-     - :command:`apt-key adv --keyserver keys.gnupg.net --recv-keys 72B865FD`
-       :command:`echo 'deb http://repo.wallarm.com/debian/wallarm-node wheezy/' >/etc/apt/sources.list.d/wallarm.list`
-       :command:`apt-get update`
+     - .. code-block:: command
+
+          apt-key adv --keyserver keys.gnupg.net --recv-keys 72B865FD
+
+       .. code-block:: command
+
+          echo 'deb http://repo.wallarm.com/debian/wallarm-node wheezy/' >/etc/apt/sources.list.d/wallarm.list
+
+       .. code-block:: command
+
+          apt-get update
+          
    * - Debian 8.x (jessie)
      - :command:`apt-key adv --keyserver keys.gnupg.net --recv-keys 72B865FD`
        :command:`echo 'deb http://repo.wallarm.com/debian/wallarm-node jessie/' >/etc/apt/sources.list.d/wallarm.list`
