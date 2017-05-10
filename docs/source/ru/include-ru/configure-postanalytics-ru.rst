@@ -7,24 +7,24 @@
 
 **Укажите объем оперативной памяти для Tarantool:**
 
-.. list-table:: **Откройте конфигурационный файл Tarantool**
-   :widths: 10 25
+.. list-table::
+   :widths: 10 30
    :header-rows: 1
 
    * - Операционная система
      - Команда
    * - Debian 7.x (wheezy)
-     - :command: `vi /etc/default/wallarm-tarantool`
+     - :command:`vi /etc/default/wallarm-tarantool`
    * - Debian 8.x (jessie)
-     - :command: `vi /etc/default/wallarm-tarantool`
+     - :command:`vi /etc/default/wallarm-tarantool`
    * - Ubuntu 14.04 LTS (trusty)
-     - :command: `vi /etc/default/wallarm-tarantool`
+     - :command:`vi /etc/default/wallarm-tarantool`
    * - Ubuntu 16.04 LTS (xenial)
-     - :command: `vi /etc/default/wallarm-tarantool`
+     - :command:`vi /etc/default/wallarm-tarantool`
    * - CentOS 6.x
-     - :command: `vi /etc/sysconfig/wallarm-tarantool`
+     - :command:`vi /etc/sysconfig/wallarm-tarantool`
    * - CentOS 7.x
-     - :command: `vi /etc/sysconfig/wallarm-tarantool`
+     - :command:`vi /etc/sysconfig/wallarm-tarantool`
 
 Количество памяти влияет на качество работы статистических алгоритмов.
 Рекомендуемое значение — 75% от общей памяти сервера. Например, если у сервера
@@ -48,14 +48,14 @@
    * - Операционная система
      - Команда
    * - Debian 7.x (wheezy)
-     - :command: `service wallarm-tarantool restart`
+     - :command:`service wallarm-tarantool restart`
    * - Debian 7.x (jessie)
      - :command: `systemctl restart wallarm-tarantool`
    * - Ubuntu 14.04 LTS (trusty)
-     - :command: `service wallarm-tarantool restart`
+     - :command:`service wallarm-tarantool restart`
    * - Ubuntu 16.04 LTS (xenial)
-     - :command: `service wallarm-tarantool restart`
+     - :command:`service wallarm-tarantool restart`
    * - CentOS 6.x
-     - :command: `service wallarm-tarantool restart`
+     - :command:`service wallarm-tarantool restart`
    * - CentOS 7.x
-     - :command: `systemctl restart wallarm-tarantool`
+     - :command:`systemctl restart wallarm-tarantool`
