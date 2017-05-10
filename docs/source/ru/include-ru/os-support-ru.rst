@@ -6,9 +6,12 @@
 
 Wallarm поддерживает установку на следующие операционные системы: 
 
-* Debian GNU/Linux 7.x–8.x
-* CentOS 6.x–7.x
-* Ubuntu 14.04 LTS, Ubuntu 16.04 LTS
+* Debian 7.x (wheezy)
+* Debian 8.x (jessie)
+* Ubuntu 14.04 LTS (trusty)
+* Ubuntu 16.04 LTS (xenial)
+* CentOS 6.x
+* CentOS 7.x
 
 .. seealso::
 

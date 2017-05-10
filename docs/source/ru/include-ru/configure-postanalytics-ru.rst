@@ -42,20 +42,37 @@
 **Перезапустите Tarantool:**
 
 .. list-table:: **Для применения новой конфигурации перезапустите Tarantool**
-   :widths: 10 25
+   :widths: 10 30
    :header-rows: 1
 
    * - Операционная система
      - Команда
    * - Debian 7.x (wheezy)
-     - :command:`service wallarm-tarantool restart`
+     - .. code-block:: command 
+
+         service wallarm-tarantool restart
+
    * - Debian 7.x (jessie)
-     - :command: `systemctl restart wallarm-tarantool`
+     - .. code-block:: command 
+
+          systemctl restart wallarm-tarantool
+
    * - Ubuntu 14.04 LTS (trusty)
-     - :command:`service wallarm-tarantool restart`
+     - .. code-block:: command 
+
+          service wallarm-tarantool restart
+
    * - Ubuntu 16.04 LTS (xenial)
-     - :command:`service wallarm-tarantool restart`
+     - .. code-block:: command 
+
+          service wallarm-tarantool restart
+
    * - CentOS 6.x
-     - :command:`service wallarm-tarantool restart`
+     - .. code-block:: command
+
+         service wallarm-tarantool restart
+
    * - CentOS 7.x
-     - :command:`systemctl restart wallarm-tarantool`
+     - .. code-block:: command
+
+          systemctl restart wallarm-tarantool
