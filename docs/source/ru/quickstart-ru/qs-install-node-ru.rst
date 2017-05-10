@@ -19,9 +19,9 @@
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: ../add-repo-ru.rst
+.. include:: add-repo-ru.rst
 
-.. include:: ../access-repo-ru.rst
+.. include:: access-repo-ru.rst
 
 Установите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~
