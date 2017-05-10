@@ -15,4 +15,4 @@ Wallarm поддерживает установку на следующие оп
 
 .. seealso::
 
-   - :ref:`TTK`
+   - :ref:`prereq_ru`
