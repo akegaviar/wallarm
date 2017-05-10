@@ -1,20 +1,18 @@
-.. Wallarm documentation master file, created by
-   sphinx-quickstart on Wed Apr 19 16:45:49 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Wallarm's documentation!
-===================================
+Документация Wallarm
+====================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Пользовательская документация
 
+Документация включает в себя разделы:
 
+* :ref:`quickstart_ru`
+* :ref:`installation_guide_ru`
+* :ref:`user_guide_ru`
+* :ref:`release_notes_ru`
+* KB LINK TTK
 
-Indices and tables
-==================
+Поиск по всем разделам:
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

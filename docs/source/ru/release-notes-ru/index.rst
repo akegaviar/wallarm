@@ -1,4 +1,4 @@
-.. _release-notes-ru:
+.. _release_notes_ru:
 
 .. index:: Заметки о выпуске
 
