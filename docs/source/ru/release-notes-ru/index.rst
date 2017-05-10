@@ -1,6 +1,6 @@
 .. _release-notes-ru:
 
-.. index:: Release Notes RU
+.. index:: Заметки о выпуске
 
 =================
 Заметки о выпуске

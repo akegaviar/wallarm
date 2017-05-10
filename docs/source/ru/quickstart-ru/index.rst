@@ -1,6 +1,6 @@
 .. _quickstart-guide-ru:
 
-.. index:: QuickStart Guide RU
+.. index:: Быстрая установка
 
 =================
 Быстрая установка

@@ -1,6 +1,6 @@
 .. _installation-guide-ru:
 
-.. index:: Installation Guide RU
+.. index:: Установка
 
 =========
 Установка

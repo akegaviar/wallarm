@@ -19,31 +19,31 @@
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: /include-ru/add-repo-ru.rst
+.. include:: /docs/source/ru/include-ru/add-repo-ru.rst
 
-.. include:: /include-ru/access-repo-ru.rst
+.. include:: /docs/source/ru//include-ru/access-repo-ru.rst
 
 Установите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 В зависимости от вашей операционной системы, выполните одну из следующих команд:
 
-.. include:: /include-ru/install-package-ru.rst
+.. include:: /docs/source/ru/include-ru/install-package-ru.rst
 
 Установите лицензионный ключ
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: /include-ru/install-license-ru.rst
+.. include:: /docs/source/ru/include-ru/install-license-ru.rst
 
 Настройте модуль постаналитики
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: /include-ru/configure-postanalytics-ru.rst
+.. include:: /docs/source/ru/include-ru/configure-postanalytics-ru.rst
 
 Подключите фильтрующий узел к облаку Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: /include-ru/connect-cloud-ru.rst
+.. include:: /docs/source/ru/include-ru/connect-cloud-ru.rst
 
 На этом установка завершена. Далее необходимо настроить узел для фильтрации
 трафика ТТК.
