@@ -21,7 +21,7 @@
 
 .. include:: /docs/source/ru/include-ru/add-repo-ru.rst
 
-.. include:: ../../access-repo-ru.rst
+.. include:: ../../../access-repo-ru.rst
 
 Установите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~
