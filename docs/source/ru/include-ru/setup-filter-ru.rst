@@ -7,7 +7,7 @@
 
 Пример содержимого файла:
 
-.. code-block::
+.. code-block:: ini
 
 	#
 	# Wallarm module specific parameters
