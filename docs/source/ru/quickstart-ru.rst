@@ -14,4 +14,4 @@
    /ru/quickstart-ru/qs-install-node-ru
    /ru/quickstart-ru/qs-setup-nginx-ru
    /ru/quickstart-ru/qs-setup-proxy-ru
-   /ru/quickstart-ru/qs-check-operation-ru
+   /ru/include-ru/check-operation-ru
