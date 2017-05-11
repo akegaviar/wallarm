@@ -7,4 +7,4 @@
 .. toctree::
    :maxdepth: 1
    
-   relnotes-ru
+   /ru/release-notes-ru/relnotes-ru
