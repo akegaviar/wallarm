@@ -24,4 +24,4 @@
 
 .. seealso::
 
-     - :ref:`TTK` INSTALLATION GUIDE
+     - :ref:`installation-guide-ru`
