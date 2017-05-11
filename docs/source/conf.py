@@ -46,7 +46,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Документация Wallarm'
-copyright = u'2017, Wallarm'
+copyright = u'2017, Wallarm Inc'
 author = u'Evgeny Konstantinov'
 
 # The version info for the project you're documenting, acts as replacement for
