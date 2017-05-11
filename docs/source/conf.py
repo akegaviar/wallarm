@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Wallarm'
+project = u'Документация Wallarm'
 copyright = u'2017, Wallarm'
 author = u'Evgeny Konstantinov'
 
