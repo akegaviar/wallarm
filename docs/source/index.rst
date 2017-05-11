@@ -12,7 +12,3 @@
 * :ref:`user_guide_ru`
 * :ref:`release_notes_ru`
 * KB LINK TTK
-
-Поиск по всем разделам:
-
-* :ref:`search`
