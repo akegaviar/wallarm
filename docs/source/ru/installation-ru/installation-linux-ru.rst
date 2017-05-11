@@ -78,4 +78,4 @@
 
 На этом установка завершена.
 
-.. include::  /ru/include-ru/check-setup-installation-ru.rst
+.. include:: /ru/include-ru/check-setup-installation-ru.rst
