@@ -1,4 +1,4 @@
-.. _configure_postanalytics_ru:
+.. _configure-postanalytics-ru:
 
 Модуль постаналитики использует находящееся в памяти хранилище Tarantool.
 

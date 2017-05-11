@@ -1,4 +1,4 @@
-.. _install_nginx_ru:
+.. _install-nginx-ru:
 
 .. list-table::
    :widths: 10 30

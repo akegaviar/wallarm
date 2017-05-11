@@ -1,4 +1,4 @@
-.. _qs_setup_proxy_ru:
+.. _qs-setup-proxy-ru:
 
 ============================================
 Настройте правила проксирования и фильтрации
@@ -141,4 +141,4 @@
 
    $ /etc/nginx-wallarm/sites-enabled # service nginx-wallarm reload
 
-Проверьте что фильтрующий узел работает и пропускает через себя трафик: :ref:<qs_check_operation_ru>.
+Проверьте что фильтрующий узел работает и пропускает через себя трафик: :ref:<qs-check-operation-ru>.

@@ -1,4 +1,4 @@
-.. _add_repo_ru:
+.. _add-repo-ru:
 
 .. list-table::
    :widths: 10 30

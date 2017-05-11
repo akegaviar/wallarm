@@ -1,4 +1,4 @@
-.. _install_package_ru:
+.. _install-package-ru:
 
 .. list-table::
    :widths: 10 30

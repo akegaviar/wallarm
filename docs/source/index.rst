@@ -7,8 +7,8 @@
 
 Документация включает в себя разделы:
 
-* :ref:`quickstart_ru`
-* :ref:`installation_guide_ru`
-* :ref:`user_guide_ru`
-* :ref:`release_notes_ru`
+* :ref:`quickstart-ru`
+* :ref:`installation-guide-ru`
+* :ref:`user-guide-ru`
+* :ref:`release-notes-ru`
 * KB LINK TTK

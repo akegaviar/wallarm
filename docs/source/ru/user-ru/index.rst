@@ -1,4 +1,4 @@
-.. _user_guide_ru:
+.. _user-guide-ru:
 
 .. index:: Руководство пользователя
 

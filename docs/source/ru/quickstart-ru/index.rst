@@ -1,4 +1,4 @@
-.. _quickstart_ru:
+.. _quickstart-ru:
 
 .. index:: Быстрая установка
 

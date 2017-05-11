@@ -1,4 +1,4 @@
-.. _intro_ru:
+.. _intro-ru:
 
 =============
 Обзор Wallarm

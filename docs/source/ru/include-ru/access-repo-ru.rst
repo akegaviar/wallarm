@@ -1,4 +1,4 @@
-.. _access_repo_ru:
+.. _access-repo-ru:
 
 .. note:: У системы должна быть возможность обратиться к
           https://repo.wallarm.com для загрузки пакетов. Убедитесь, что

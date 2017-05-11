@@ -1,4 +1,4 @@
-.. _install_nginx_postanalytics_ru:
+.. _install-nginx-postanalytics-ru:
 
 .. list-table::
    :widths: 10 30
