@@ -13,63 +13,67 @@ NGINX. При работе с Wallarm доступны все возможнос
 Переменные NGINX-Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-* - Переменная
-  - Тип
-  - Значение
-* - .. code-block:: ini
+.. list-table::
+   :widths: 10 30
+   :header-rows: 1
 
-       wallarm_request_time
+    * - Переменная
+      - Тип
+      - Значение
+    * - .. code-block:: ini
 
-  - Число с плавающей точкой
-  - Время выполнения запроса в секундах
+           wallarm_request_time
 
-* - .. code-block:: ini
+      - Число с плавающей точкой
+      - Время выполнения запроса в секундах
 
-       wallarm_is_input_valid
+    * - .. code-block:: ini
 
-  - Целое число
-  - Валидность запроса
+           wallarm_is_input_valid
 
-    ``0``: запрос валиден
+      - Целое число
+      - Валидность запроса
 
-    ``1``: запрос невалиден
+        ``0``: запрос валиден
 
-* - .. code-block:: ini
+        ``1``: запрос невалиден
 
-       wallarm_attack_type
+    * - .. code-block:: ini
 
-  - Целое число
-  - Типы атак, представленные в запросе
+           wallarm_attack_type
 
-      0x00000000: отсутствие атаки
+      - Целое число
+      - Типы атак, представленные в запросе
 
-      0x00000001: xss
+          0x00000000: отсутствие атаки
 
-      0x00000002: sqli
+          0x00000001: xss
 
-      0x00000004: rce
+          0x00000002: sqli
 
-      0x00000008: xxe
+          0x00000004: rce
 
-      0x00000010: ptrav
+          0x00000008: xxe
 
-      0x00000020: crlf
+          0x00000010: ptrav
 
-      0x00000040: redir
+          0x00000020: crlf
 
-      0x00000080: nosqli
+          0x00000040: redir
 
-      0x00000200: brute
+          0x00000080: nosqli
 
-      0x00000400: dirburst
+          0x00000200: brute
 
-      0x00000800: marker
+          0x00000400: dirburst
 
-      0x20000000: overlimit_res
+          0x00000800: marker
 
-      0x40000000: zip_bomb
+          0x20000000: overlimit_res
 
-      0x80000000: vpatch
+          0x40000000: zip_bomb
+
+          0x80000000: vpatch
 
 
 Директивы NGINX-Wallarm
