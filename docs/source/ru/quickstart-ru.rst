@@ -8,10 +8,10 @@
    :maxdepth: 3
 
    /ru/include-ru/intro-ru
-   qs-overview-ru
+   /ru/quickstart-ru/qs-overview-ru
    /ru/include-ru/prereq-ru
    /ru/include-ru/os-support-ru
-   qs-install-node-ru
-   qs-setup-nginx-ru
-   qs-setup-proxy-ru
-   qs-check-operation-ru
+   /ru/quickstart-ru/qs-install-node-ru
+   /ru/quickstart-ru/qs-setup-nginx-ru
+   /ru/quickstart-ru/qs-setup-proxy-ru
+   /ru/quickstart-ru/qs-check-operation-ru
