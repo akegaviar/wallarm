@@ -77,8 +77,8 @@
 Настройте режим фильтрации
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/ru/include-ru/setup-filter-ru.rst
+.. include:: /ru/include-ru/setup-filter-ru.rst
 
 На этом установка завершена.
 
-/ru/include-ru/check-setup-installation-ru.rst
+.. include::  /ru/include-ru/check-setup-installation-ru.rst
