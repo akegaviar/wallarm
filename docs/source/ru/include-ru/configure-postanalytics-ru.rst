@@ -41,7 +41,7 @@
 
 **Перезапустите Tarantool:**
 
-.. list-table:: **Для применения новой конфигурации перезапустите Tarantool**
+.. list-table::
    :widths: 10 30
    :header-rows: 1
 
