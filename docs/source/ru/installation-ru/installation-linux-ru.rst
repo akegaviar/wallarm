@@ -4,9 +4,6 @@
 Установите на Linux
 ===================
 
-.. include:: /ru/include-ru/prereq-ru.rst
-.. include:: /ru/include-ru/os-support-ru.rst
-
 Варианты установки
 ~~~~~~~~~~~~~~~~~~
 
