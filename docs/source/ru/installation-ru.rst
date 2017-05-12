@@ -4,4 +4,4 @@
 Полная установка
 ================
 
-.. include:: /ru/installation-ru/contents
+.. include:: /ru/installation-ru/contents.rst
