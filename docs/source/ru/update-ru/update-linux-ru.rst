@@ -16,7 +16,7 @@
 
 .. include:: /ru/include-ru/access-repo-ru.rst
 
-Выполните команду: NTES
+Выполните команду:
 
 .. include:: /ru/include-ru/update-package-ru.rst
 
