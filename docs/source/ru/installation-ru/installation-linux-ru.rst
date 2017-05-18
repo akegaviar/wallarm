@@ -69,7 +69,7 @@
 .. note:: Пропустите этот шаг, если постаналитика установлена на отдельный
           сервер.
 
-.. include:: /ru/include-ru/configure-postanalytics-address-ru.rst 
+.. include:: /ru/include-ru/configure-postanalytics-address-ru.rst
 
 Настройте режим фильтрации
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

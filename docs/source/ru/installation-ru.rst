@@ -14,7 +14,7 @@
    /ru/installation-ru/installation-linux-ru
    /ru/installation-ru/installation-docker-ru
    /ru/installation-ru/installation-vmware-ru
-   /ru/installation-ru/installation-ngninx-ru
+   /ru/installation-ru/installation-nginx-ru
    /ru/installation-ru/installation-nginxplus-ru
    /ru/installation-ru/installation-postanalytics-ru
    /ru/installation-ru/setup-account-ru
