@@ -10,3 +10,8 @@
    /ru/release-notes-ru
 
 * KB LINK TTK
+
+**Обратная связь**
+
+* Twitter `@wallarm <https://twitter.com/wallarm>`__
+* Почта `request@wallarm.com <mailto:request@wallarm.com>`__
