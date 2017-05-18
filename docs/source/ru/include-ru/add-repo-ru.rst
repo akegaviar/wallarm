@@ -46,9 +46,9 @@
           apt-get update
 
    * - Ubuntu 16.04 LTS (xenial)
-     -  .. code-block:: command
+     - .. code-block:: command
 
-           apt-key adv --keyserver keys.gnupg.net --recv-keys 72B865FD
+          apt-key adv --keyserver keys.gnupg.net --recv-keys 72B865FD
 
        .. code-block:: command
 
@@ -61,11 +61,11 @@
    * - CentOS 6.x
      - .. code-block:: command 
 
-         yum install --enablerepo=extras -y epel-release centos-release-SCL
+          yum install --enablerepo=extras -y epel-release centos-release-SCL
 
        .. code-block:: command 
 
-         rpm -i https://repo.wallarm.com/centos/wallarm-node/6/x86_64/Packages/wallarm-node-repo-1-2.el6.noarch.rpm
+          rpm -i https://repo.wallarm.com/centos/wallarm-node/6/x86_64/Packages/wallarm-node-repo-1-2.el6.noarch.rpm
 
    * - CentOS 7.x
      - .. code-block:: command
