@@ -44,7 +44,7 @@
 #. Зайдите в vCenter через vSphere Client или vSphere Web Service.
 #. Нажмите :guilabel:`File`.
 #. Нажмите :guilabel:`Deploy OVF template`.
-#. Скопируйте из буфера обмена путь к OVF-шаблону.
+#. Скопируйте путь к OVF-шаблону.
 #. Укажите на этапе :guilabel:`Name and Location` название, под которым
    виртуальная машина будет видна в интерфейсе vSphere Client.
 #. На этапе :guilabel:`Deployment configuration` выберите конфигурацию:
