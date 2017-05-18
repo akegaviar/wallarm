@@ -7,8 +7,8 @@
    /ru/quickstart-ru
    /ru/installation-ru
    /ru/user-ru
-   /ru/release-notes-ru
    /ru/update-ru
+   /ru/release-notes-ru
 
 * KB LINK TTK
 
