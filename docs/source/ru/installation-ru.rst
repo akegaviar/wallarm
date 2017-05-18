@@ -17,5 +17,4 @@
    /ru/installation-ru/installation-nginx-ru
    /ru/installation-ru/installation-nginxplus-ru
    /ru/installation-ru/installation-postanalytics-ru
-   /ru/installation-ru/setup-account-ru
    /ru/installation-ru/installation-update-ru

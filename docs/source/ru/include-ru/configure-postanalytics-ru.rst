@@ -7,6 +7,8 @@
 
 **Укажите объем оперативной памяти для Tarantool:**
 
+Откройте конфигурационный файл Tarantool:
+
 .. list-table::
    :widths: 10 30
    :header-rows: 1
