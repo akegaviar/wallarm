@@ -8,6 +8,7 @@
    /ru/installation-ru
    /ru/user-ru
    /ru/release-notes-ru
+   /ru/update-ru
 
 * KB LINK TTK
 
