@@ -8,17 +8,17 @@
 выполнить следующие действия:
 
 #. Обновить пакеты Wallarm.
-#. Проверьте конфигурационный файл NGINX.
+#. Проверить конфигурационный файл NGINX.
 #. Перезапустить NGINX.
 
 Обновите пакеты Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. include:: /ru/include-ru/access-repo-ru.rst
-
 Выполните команду:
 
 .. include:: /ru/include-ru/update-package-ru.rst
+
+.. include:: /ru/include-ru/access-repo-ru.rst
 
 Проверьте конфигурационный файл NGINX
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
