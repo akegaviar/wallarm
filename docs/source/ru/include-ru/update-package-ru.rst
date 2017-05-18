@@ -1,3 +1,5 @@
+.. update-package-ru:
+
 .. list-table::
    :widths: 10 30
    :header-rows: 1
