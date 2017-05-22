@@ -1,4 +1,4 @@
-.. _check-setup-ru:
+.. _configure-parameters-ru:
 
 =====================================
 Тонкая настройка конфигурации Wallarm
