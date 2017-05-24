@@ -26,7 +26,7 @@
 
 .. code-block:: command
 
-   docker run -d -v /path/to/license.key:/etc/wallarm/license.key -e DEPLOY_USER="deploy@example.com" -e DEPLOY_ PASSWORD="very_secret" -e NGINX_BACKEND=example.com -p 80:80 wallarm/node
+   docker run -d -v /path/to/license.key:{/etc/wallarm/license.key} -e DEPLOY_USER="deploy@example.com" -e DEPLOY_ PASSWORD="very_secret" -e NGINX_BACKEND=example.com -p 80:80 wallarm/node
 
 где:
 

@@ -1,6 +1,6 @@
 .. _configure-postanalytics-address-ru:
 
-Добавьте в ``/etc/nginx-wallarm/conf.d/wallarm.conf`` адреса серверов
+Добавьте в :file:`/etc/nginx-wallarm/conf.d/wallarm.conf` адреса серверов
 постаналитики:
 
 .. code-block:: ini
