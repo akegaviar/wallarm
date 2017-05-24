@@ -17,10 +17,10 @@
 .. toctree::
    :maxdepth: 2
 
-   /user-ru/configure-server-ru/configure-parameters-ru
-   /user-ru/configure-server-ru/configure-monitor-ru
-   /user-ru/configure-server-ru/configure-backup-ru
-   /user-ru/configure-server-ru/configure-ip-blocking-ru
+   /ru/user-ru/configure-server-ru/configure-parameters-ru
+   /ru/user-ru/configure-server-ru/configure-monitor-ru
+   /ru/user-ru/configure-server-ru/configure-backup-ru
+   /ru/user-ru/configure-server-ru/configure-ip-blocking-ru
 
 .. seealso::
 

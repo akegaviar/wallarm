@@ -19,12 +19,12 @@
 .. toctree::
    :maxdepth: 2
 
-   /user-ru/configure-ui-ru/configure-system-ru
-   /user-ru/configure-ui-ru/configure-node-ru
-   /user-ru/configure-ui-ru/configure-scanner-ru
-   /user-ru/configure-ui-ru/configure-app-ru
-   /user-ru/configure-ui-ru/configure-marker-ru
-   /user-ru/configure-ui-ru/configure-user-ru
+   /ru/user-ru/configure-ui-ru/configure-system-ru
+   /ru/user-ru/configure-ui-ru/configure-node-ru
+   /ru/user-ru/configure-ui-ru/configure-scanner-ru
+   /ru/user-ru/configure-ui-ru/configure-app-ru
+   /ru/user-ru/configure-ui-ru/configure-marker-ru
+   /ru/user-ru/configure-ui-ru/configure-user-ru
 
 .. seealso::
 
