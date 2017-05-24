@@ -10,7 +10,7 @@
 .. include:: /ru/include-ru/installation-options-ru.rst
 
 Если вы планируете установить модуль постаналитики на отдельный сервер,
-необходимо сначала установить его. :ref:`ТТК` installing-post-analytics-on-a-separate-server-pool.md
+необходимо сначала установить его. :ref:`installation-postanalytics-ru`.
 
 Для установки фильтрующего узла вам потребуется выполнить следующие действия:
 

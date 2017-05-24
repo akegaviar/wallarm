@@ -6,7 +6,7 @@
 
 Данная инструкция предполагает, что у вас `установлен NGINX официальной сборки <http://nginx.org/en/linux_packages.html>`__.
 
-Если вы используете специальную сборку NGINX, обратитесь к разделу TTK [Установка динамически подключаемого модуля для NGINX](../advanced-installation-and-setup/installation-more-options/dynamic-module-for-nginx.md)
+Если вы используете специальную сборку NGINX, обратитесь к разделу :ref:`installation-nginx-ru`.
 
 Для установки динамического модуля для NGINX вам потребуется выполнить
 следующие действия:
@@ -60,7 +60,7 @@
 Подключите модуль NGINX-Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Добавьте в файл ``/etc/nginx/nginx.conf`` следующую директиву:
+#. Добавьте в файл :file:`/etc/nginx/nginx.conf` следующую директиву:
 
  .. code-block:: ini
 
@@ -78,4 +78,4 @@
 .. include:: /ru/include-ru/connect-cloud-ru.rst
 
 На этом установка завершена. Далее необходимо настроить узел для фильтрации
-трафика ТТК.
+трафика :ref:`qs-setup-proxy-ru`.

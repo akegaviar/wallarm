@@ -9,8 +9,9 @@
    /ru/user-ru
    /ru/update-ru
    /ru/release-notes-ru
+   /ru/glossary-ru
 
-* KB LINK TTK
+* `База знаний <https://wallarm.atlassian.net/wiki/display/KB/Knowledge+Base>`_
 
 **Обратная связь**
 

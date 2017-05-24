@@ -109,7 +109,8 @@
   входящие запросы. Если адрес не содержит префикса ``http://`` или ``https://``,
   то по умолчанию будет использован ``http://``. Подробнее в документации на
   `proxy_pass <http://nginx.org/ru/docs/http/ngx_http_proxy_module.html#proxy_pass>`__.
-* ``WALLARM_MODE``: режим работы модуля NGINX-Wallarm. Подробнее в описании параметра ТТК [wallarm_mode](../configuration/configuration-options.html#wallarmmode).
+* ``WALLARM_MODE``: режим работы модуля NGINX-Wallarm. Подробнее в описании параметра
+   ``wallarm_mode`` в :ref:`configure-parameters-ru`.
 
 Конфигурационные файлы
 ----------------------
@@ -143,7 +144,7 @@
 ~~~~~~~~~~~~~~~~~~~~
 
 Внутри контейнера установлены Nagios-совместимые скрипты для мониторинга
-фильтрующего узла. Подробнее в разделе ТТК [Мониторинг ноды](../configuration/node-monitoring.md).
+фильтрующего узла. Подробнее в разделе :ref:`configure-monitor-ru`.
 
 Пример вызова скриптов:
 

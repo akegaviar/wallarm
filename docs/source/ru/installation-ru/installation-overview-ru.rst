@@ -20,19 +20,19 @@
 Использование Docker-контейнера
  Если вы активно используете контейнерную виртуализацию на базе Docker,
  то для установки фильтрующего узла можно воспользоваться уже готовым образом.
- :ref:`TTK`
+ :ref:`installation-docker-ru`
 
 Установка VMware vApp
  Для инфраструктур на базе системы виртуализации VMware можно воспользоваться
- специально подготовленным vApp. :ref:`TTK`
+ специально подготовленным vApp. :ref:`installation-vmware-ru`
 
 Добавление в NGINX
  Добавить фильтрующий узел можно в NGINX версии 1.9.11 и выше.
  
- * :ref:`TTK` dynamic-module-for-nginx.md
- * :ref:`TTK` using-jointly-with-nginx-plus.md
+ * :ref:`installation-nginx-ru`
+ * :ref:`installation-nginxplus-ru`
 
 Установка постаналитики на отдельный сервер
  Для последующего анализа прошедших фильтрацию запросов требуется значительный
  объем памяти. Рекомендуется установить модуль постаналитики на отдельный
- сервер или группу серверов. :ref:`ТТК` installing-post-analytics-on-a-separate-server-pool.md
+ сервер или группу серверов. :ref:`installation-postanalytics-ru`
