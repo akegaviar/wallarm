@@ -178,4 +178,4 @@ epub_copyright = copyright
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
 
-
+def setup(app): app.add_javascript('jira.js')
