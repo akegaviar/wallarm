@@ -26,18 +26,18 @@
    * - Операционная система
      - Путь
    * - Debian/Ubuntu
-     - ``/etc/nginx-wallarm/sites-available``
+     - :file:`/etc/nginx-wallarm/sites-available`
        символическая ссылка: ``/etc/nginx-wallarm/sites-enabled``
    * - CentOS
-     - ``/etc/nginx-wallarm/conf.d``
+     - :file:`/etc/nginx-wallarm/conf.d`
    
 Для каждой группы доменов, которые должны обрабатываться однотипно, принято
 создавать отдельный файл конфигурации, в котором присутствует блок ``server``.
 
-По умолчанию автоматически создается файл ``default`` или ``default.conf``
+По умолчанию автоматически создается файл :file:`default` или :file:`default.conf`
 следующего содержания:
 
-.. code-block:: ini
+.. code-block:: config
 
     #
     # by default, proxy all to 127.0.0.1:8080
@@ -92,7 +92,7 @@
 
 Файл конфигурации в этом случае будет выглядеть следующим образом:
 
-.. code-block:: ini
+.. code-block:: config
 
     server {
       listen 80;
