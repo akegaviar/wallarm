@@ -10,7 +10,7 @@
 * Добавлены ограничения потребляемых ресурсов. Запрос, который обрабатывается
   дольше указанного времени, считается атакой. Ограничения времени анализа и
   решения о блокировки настраиваются параметрами
-  :parameter:`wallarm_process_time_limit_block` и :directive:`wallarm_process_time_limit`.
+  ``wallarm_process_time_limit_block`` и ``wallarm_process_time_limit``.
   Ограничение памяти на рабочий процесс NGINX настраивается директивой
   ``wallarm_worker_rlimit_vmem``.
 
