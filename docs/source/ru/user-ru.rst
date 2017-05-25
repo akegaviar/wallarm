@@ -13,7 +13,7 @@
    /ru/user-ru/check-ru/check-attack-ru
    /ru/user-ru/check-ru/check-vuln-ru
    /ru/user-ru/check-ru/check-scope-ru
-   /ru/user-ru/check-ru/check-scope-ru
+   /ru/user-ru/check-ru/check-attack-cost-ru
    /ru/user-ru/use-search-ru
    /ru/user-ru/use-filter-ru
    /ru/user-ru/configure-ui-ru
