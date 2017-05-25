@@ -121,7 +121,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 Путь к файлу ``proton.db``, содержащему глобальные настройки фильтрации
 запросов, не зависящие от структуры web-приложения.
 
-Значение по умолчанию: ``/etc/wallarm/proton.db``
+Значение по умолчанию: :file:`/etc/wallarm/proton.db`
 
 .. note:: Параметр может настраиваться на уровнях ``http``, ``server``,
           ``location``.
@@ -149,7 +149,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 
 Путь к лицензионному ключу Wallarm.
 
-Значение по умолчанию: ``/etc/wallarm/license.key``
+Значение по умолчанию: :file:`/etc/wallarm/license.key`
 
 :command:`wallarm_local_trainingset_path`
 -----------------------------------------
@@ -157,7 +157,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 Путь к ``lom``, содержащему информацию о защищаемом веб-приложении
 и настройках ноды.
 
-Значение по умолчанию: ``/etc/wallarm/lom``
+Значение по умолчанию: :file:`/etc/wallarm/lom`
 
 :command:`wallarm_mode`
 -----------------------
@@ -319,7 +319,7 @@ NGINX. При работе с Wallarm доступны все возможнос
   :command:`wallarm-mode`. ``monitoring`` -- запросы пропускаются, ``block``
   и ``aggressive`` -- запросы блокируются.
 
-Значение по умолчанию: `wallarm_process_time_limit_block attack`
+Значение по умолчанию: ``wallarm_process_time_limit_block attack``
 
 .. note:: Параметр может настраиваться на уровнях ``http``, ``server``,
           ``location``.

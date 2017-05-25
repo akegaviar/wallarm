@@ -26,10 +26,10 @@
   ``/etc/collectd.d/traps.conf``.
   Возможные методы для отправки уведомлений:
 
-    * NSCA и NSCA-ng
-    * SNMP TRAP
-    * почтовые сообщения
-    * собственные скрипты
+    * NSCA и NSCA-ng.
+    * SNMP TRAP.
+    * почтовые сообщения.
+    * собственные скрипты.
 
 Настройте NGINX
 ~~~~~~~~~~~~~~~
@@ -42,7 +42,7 @@
 ``wallarm_status`` в файле конфигурации NGINX.
 
 При нестандартных настройках может потребоваться внести изменения в
-``/etc/collectd/conf.d/nginx-wallarm.conf``.
+:file:`/etc/collectd/conf.d/nginx-wallarm.conf`.
 
 :command:`requests`
 -------------------
