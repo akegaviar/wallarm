@@ -18,3 +18,4 @@
    /ru/user-ru/use-filter-ru
    /ru/user-ru/configure-ui-ru
    /ru/user-ru/configure-server-ru
+   /ru/user-ru/scanner-address-ru.rst
