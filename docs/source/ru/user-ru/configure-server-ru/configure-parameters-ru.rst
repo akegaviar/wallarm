@@ -93,7 +93,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 
 .. seealso::
 
-     - KB Link TTK /questions/faq-troubleshooting.html#как-определить-что-пользовательские-запросы-блокирует-именно-wallarm
+     - `База знаний: Как определить, что пользовательские запросы блокирует именно Wallarm <https://wallarm.atlassian.net/wiki/pages/viewpage.action?pageId=65221296>`_
 
 :command:`wallarm_cache_path`
 -----------------------------
