@@ -37,7 +37,7 @@
 По умолчанию автоматически создается файл :file:`default` или :file:`default.conf`
 следующего содержания:
 
-.. code-block:: config
+.. code-block:: conf
 
     #
     # by default, proxy all to 127.0.0.1:8080
@@ -92,7 +92,7 @@
 
 Файл конфигурации в этом случае будет выглядеть следующим образом:
 
-.. code-block:: config
+.. code-block:: conf
 
     server {
       listen 80;

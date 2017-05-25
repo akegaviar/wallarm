@@ -1,4 +1,4 @@
-.. code-block:: ini
+.. code-block:: conf
 
     #!/bin/sh
     set -e

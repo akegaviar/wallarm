@@ -62,7 +62,7 @@
 
 #. Добавьте в файл :file:`/etc/nginx/nginx.conf` следующую директиву:
 
- .. code-block:: ini
+ .. code-block:: conf
 
     load_module modules/ngx_http_wallarm_module.so;
 

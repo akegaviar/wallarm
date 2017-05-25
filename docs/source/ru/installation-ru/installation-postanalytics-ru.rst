@@ -66,7 +66,7 @@
 отличных от ``0.0.0.0`` или ``127.0.0.1``, то необходимо указать эти адреса
 в ``/etc/wallarm/node.yaml``:
 
-.. code-block:: ini
+.. code-block:: conf
 
     ---
     hostname: <node hostname>

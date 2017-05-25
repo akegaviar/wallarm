@@ -103,7 +103,7 @@ Wallarm может не подойти и не загрузиться. Для п
 
 Добавьте в файл ``/etc/nginx/nginx.conf`` следующую директиву:
 
-.. code-block:: ini
+.. code-block:: conf
 
    load_module modules/ngx_http_wallarm_module.so;
 

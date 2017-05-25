@@ -37,7 +37,7 @@
 
 Например:
 
-.. code-block:: ini
+.. code-block:: conf
 
    SLAB_ALLOC_ARENA=24
 

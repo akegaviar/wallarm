@@ -20,7 +20,7 @@ NGINX. При работе с Wallarm доступны все возможнос
    * - Переменная
      - Тип
      - Значение
-   * - .. code-block:: ini
+   * - .. code-block:: conf
 
            wallarm_request_time
 
@@ -28,7 +28,7 @@ NGINX. При работе с Wallarm доступны все возможнос
      - |  Время выполнения запроса
        |  в секундах
 
-   * - .. code-block:: ini
+   * - .. code-block:: conf
 
            wallarm_is_input_valid
 
@@ -39,7 +39,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 
        ``1``: запрос невалиден
 
-   * - .. code-block:: ini
+   * - .. code-block:: conf
 
           wallarm_attack_type
 
@@ -177,7 +177,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 получения строки запроса и заголовков. Это можно использовать для применения
 разных политик для разных клиентов.
 
-.. code-block:: ini
+.. code-block:: conf
 
     map $remote_addr $wmode {
     1.2.3.4 off;
@@ -277,7 +277,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 
 **Пример**
 
-.. code-block:: ini
+.. code-block:: conf
 
     wallarm_parser_disable base64;
     wallarm_parser_disable xml;
@@ -332,7 +332,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 запрещен отовсюду, за исключением системных адресов ``127.0.0.1`` и ``::1``,
 позволяющих выполнять команду только на сервере, где установлен Wallarm. 
 
-.. code-block:: ini
+.. code-block:: conf
 
     location = /wallarm-status {
         allow 127.0.0.1;
@@ -345,7 +345,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 Чтобы разрешить выполнение команды с другого сервера, добавьте в конфигурации
 инструкцию ``allow`` с IP-адресом нужного сервера, например: 
 
-.. code-block:: ini
+.. code-block:: conf
 
    allow 10.41.29.0;
 

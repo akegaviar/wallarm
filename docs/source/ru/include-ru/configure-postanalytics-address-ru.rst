@@ -3,7 +3,7 @@
 Добавьте в :file:`/etc/nginx-wallarm/conf.d/wallarm.conf` адреса серверов
 постаналитики:
 
-.. code-block:: ini
+.. code-block:: conf
 
      upstream wallarm_tarantool {
         server <ip1>:3313;
