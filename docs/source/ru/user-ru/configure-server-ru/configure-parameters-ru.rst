@@ -361,7 +361,7 @@ NGINX. При работе с Wallarm доступны все возможнос
 
 .. seealso::
 
-   - :ref:`check-operation-ru`
+   - :ref:`user-check-operation-ru`
 
 :command:`wallarm_tarantool_connect_attempts`
 ---------------------------------------------
