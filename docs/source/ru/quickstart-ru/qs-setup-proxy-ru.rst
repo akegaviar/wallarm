@@ -146,5 +146,5 @@
 
    $ /etc/nginx-wallarm/sites-enabled # service nginx-wallarm reload
 
-Проверьте что фильтрующий узел работает и пропускает через себя трафик:
+Проверьте, что фильтрующий узел работает и пропускает через себя трафик:
 :ref:`qs-check-operation-ru`.
