@@ -11,7 +11,7 @@
    /ru/release-notes-ru
    /ru/glossary-ru
 
-* `База знаний <https://wallarm.atlassian.net/wiki/display/KB/Knowledge+Base>`_
+* `База знаний <https://wallarm.atlassian.net/wiki/pages/viewpage.action?pageId=65137590>`_
 
 **Обратная связь**
 
