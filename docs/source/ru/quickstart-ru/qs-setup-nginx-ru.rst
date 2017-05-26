@@ -62,15 +62,15 @@
 
 #. Добавьте в файл :file:`/etc/nginx/nginx.conf` следующую директиву:
 
- .. code-block:: conf
+   .. code-block:: conf
 
-    load_module modules/ngx_http_wallarm_module.so;
+      load_module modules/ngx_http_wallarm_module.so;
 
 #. Скопируйте конфигурационные файлы для настройки системы:
 
- .. code-block:: command
+   .. code-block:: command
 
-    cp /usr/share/doc/nginx-module-wallarm/examples/*.conf /etc/nginx/conf.d/
+      cp /usr/share/doc/nginx-module-wallarm/examples/*.conf /etc/nginx/conf.d/
 
 Подключите фильтрующий узел к облаку Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,4 +78,4 @@
 .. include:: /ru/include-ru/connect-cloud-ru.rst
 
 На этом установка завершена. Далее необходимо настроить узел для фильтрации
-трафика :ref:`qs-setup-proxy-ru`.
+трафика: :ref:`qs-setup-proxy-ru`.
