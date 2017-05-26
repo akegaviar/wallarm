@@ -4,4 +4,4 @@
 Проверьте работоспособность фильтрующего узла
 =============================================
 
-.. include:: /ru/include-ru-check-operation-ru.rst
+.. include:: /ru/include-ru/check-operation-ru.rst
