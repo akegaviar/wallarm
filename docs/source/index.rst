@@ -2,7 +2,7 @@
 ====================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
 
    /ru/quickstart-ru
    /ru/installation-ru
