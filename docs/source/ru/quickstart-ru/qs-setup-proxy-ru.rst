@@ -19,7 +19,7 @@
 Отредактируйте файл конфигурации NGINX-Wallarm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. list-table:: **Расположение файла конфигурации**
+.. list-table::
    :widths: 10 25
    :header-rows: 1
 
@@ -27,7 +27,8 @@
      - Путь
    * - Debian/Ubuntu
      - :file:`/etc/nginx-wallarm/sites-available`
-       символическая ссылка: ``/etc/nginx-wallarm/sites-enabled``
+
+       символическая ссылка: :file:`/etc/nginx-wallarm/sites-enabled`
    * - CentOS
      - :file:`/etc/nginx-wallarm/conf.d`
    
