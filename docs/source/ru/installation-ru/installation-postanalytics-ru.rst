@@ -77,3 +77,7 @@
       port: 3313
 
 На этом установка постаналитики завершена.
+
+.. seealso::
+
+   - :ref:`installation-linux-ru`
