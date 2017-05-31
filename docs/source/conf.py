@@ -31,6 +31,8 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx.ext.ifconfig']
+def setup(app):
+    app.add_javascript('http:///wallarm-wallarm.readthedocs-hosted.com/s/83ddc972c3081d22fffbf8446fbc64db-T/en_US-kq69xc/71006/b6b48b2829824b869586ac216d119363/2.0.11/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=680c22f9')
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
